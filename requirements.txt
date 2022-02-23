@@ -1,2 +1,1 @@
-aiogram
-random
+aiogram=2.19
