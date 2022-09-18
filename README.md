@@ -1,2 +1,2 @@
 # cube_bot
-my firыt telegram bot
+my first telegram bot
