@@ -1,2 +1,2 @@
 # cube_bot
-my firct telegramm bot
+my firыt telegram bot
